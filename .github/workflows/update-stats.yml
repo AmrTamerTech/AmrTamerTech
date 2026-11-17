@@ -1,9 +1,9 @@
 
 name: Update GitHub Stats
 
-on:
+'on':
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 permissions:
@@ -43,4 +43,3 @@ jobs:
           git add profile/stats.svg profile/top-langs.svg
           git diff --cached --quiet || git commit -m "Update GitHub stats"
           git push
-
