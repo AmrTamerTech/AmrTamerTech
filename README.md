@@ -1,5 +1,4 @@
- 
-<div align="center">
+&#x20;\<div align="center">
 
 # Hi, I'm Amr Tamer 👋
 
@@ -7,10 +6,10 @@
 
 Building scalable applications, designing databases, and turning ideas into practical software solutions.
 
-[![GitHub](https://img.shields.io/badge/GitHub-AmrTamerTech-181717?style=for-the-badge&logo=github)](https://github.com/AmrTamerTech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amr-tamer-90b1b4229/)
+\
 
-</div>
+
+\</div>
 
 ---
 
@@ -28,24 +27,26 @@ Building scalable applications, designing databases, and turning ideas into prac
 ## 🛠️ Tech Stack
 
 ### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
-</p>
+
+\<p>   \<img src="[https://skillicons.dev/icons?i=cs,dotnet,visualstudio](https://skillicons.dev/icons?i=cs,dotnet,visualstudio)" alt="Backend Development" /> \</p>
 
 ### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mssql,mysql" />
-</p>
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=mssql,mysql](https://skillicons.dev/icons?i=mssql,mysql)" alt="Databases" />
+\</p>
 
 ### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,java,python" />
-</p>
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=cs,cpp,java,python](https://skillicons.dev/icons?i=cs,cpp,java,python)" alt="Programming Languages" />
+\</p>
 
 ### Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-</p>
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,vscode,idea](https://skillicons.dev/icons?i=git,github,vscode,idea)" alt="Development Tools" />
+\</p>
 
 ---
 
@@ -81,58 +82,66 @@ A console-based banking application for managing clients and financial operation
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+\<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmrTamerTech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+\<a href="[https://github.com/AmrTamerTech](https://github.com/AmrTamerTech)">
+&#x20; \<img height="180" src="./profile/stats.svg" alt="Amr's GitHub Statistics" />
+\</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrTamerTech&layout=compact&theme=tokyonight&hide_border=true" />
+\<a href="[https://github.com/AmrTamerTech](https://github.com/AmrTamerTech)">
+&#x20; \<img height="180" src="./profile/top-langs.svg" alt="Amr's Most Used Languages" />
+\</a>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=AmrTamerTech&theme=tokyonight&hide_border=true" />
+\<br/>
 
-</div>
+\<img width="75%" src="[https://streak-stats.demolab.com?user=AmrTamerTech&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=AmrTamerTech\&theme=tokyonight\&hide_border=true)" alt="GitHub Streak" />
+
+\</div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
-<div align="center">
+\<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AmrTamerTech&theme=tokyonight&no-frame=true&row=1&column=6" />
+⭐ Continuously contributing to GitHub projects and improving my development skills.
 
-</div>
+
+
+\</div>
 
 ---
 
 ## 💡 Competitive Programming
 
-<div align="center">
+\<div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-amr.tech-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/amr.tech)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-AmrDev-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/AmrDev/)
 
-</div>
+
+
+\</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-<div align="center">
+\<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amr_Tamer-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amr-tamer-90b1b4229/)
 
-[![YouTube](https://img.shields.io/badge/YouTube-AmrTamerTech-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@AmrTamerTech)
 
-[![GitHub](https://img.shields.io/badge/GitHub-AmrTamerTech-181717?style=for-the-badge&logo=github)](https://github.com/AmrTamerTech)
 
-</div>
+
+
+
+\</div>
 
 ---
 
-<div align="center">
+\<div align="center">
 
 ### "Great software is built with clean code, continuous learning, and attention to detail."
 
 ⭐ Thanks for visiting my profile!
 
-</div>
+\</div>
